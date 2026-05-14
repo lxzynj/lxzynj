@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm lxzynj, a passionate developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197375.png" width="11"/><b>China</b></p>
+<p>Welcome to my page! </br> I'm lxzynj, a passionate developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197375.png" width="11"/><b>China</b>.</p>
 
 
 ## 🛠️ Things I code with
